@@ -1,5 +1,7 @@
 # evotor data challenge
-Решение для [Эвотор Data Challenge](https://boosters.pro/champ_evotor)
 
-## Результат:
+Solution for [Evotor Data Challenge](https://boosters.pro/championship/evotor1/overview)
+
+## Result:
+
 ![result](result.png)
